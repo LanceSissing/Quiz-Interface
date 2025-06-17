@@ -1,4 +1,4 @@
-import { questions } from '../data/questions.js';
+import { questions } from '../data/questions.js'; // No change needed if folder structure remains
 
 const tvBtn = document.getElementById('tv-btn');
 const filmBtn = document.getElementById('film-btn');
