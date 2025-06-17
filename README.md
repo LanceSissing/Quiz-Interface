@@ -30,3 +30,5 @@ The project consists of the following files:
 ## Overview of Quiz Functionality
 
 The quiz interface is designed to be user-friendly and interactive. Users can navigate through questions, select answers, and receive immediate feedback on their performance. The application is built with responsiveness in mind, ensuring a seamless experience across different devices.
+
+sml change
