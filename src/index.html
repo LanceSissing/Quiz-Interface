@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Interface</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Quiz Interface</h1>
+    <div id="category-buttons">
+      <button id="tv-btn">TV</button>
+      <button id="film-btn">Film</button>
+      <button id="sport-btn">Sport</button>
+      <button id="music-btn">Music</button>
+      <button id="food-btn">Food and Drink</button>
+      <!-- Add other category buttons here -->
+    </div>
+    <div id="quiz-area" class="hidden">
+      <div id="score"></div>
+      <div id="question"></div>
+      <div id="options"></div>
+      <button id="next-btn" class="hidden">Next</button>
+    </div>
+  </div>
+  <script type="module" src="scripts/app.js"></script>
+</body>
+</html>
